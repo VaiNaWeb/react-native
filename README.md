@@ -14,14 +14,14 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 
 ### Aula 01 - [Olá mundo](aulas/aula01/aula.md)
 
-**Objetivos:** <br> Visão geral dos principais assuntos, criação de um primeiro componente em React.
-**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
-**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-01/)<br>
+**Objetivos:** Visão geral dos assuntos, criação de um primeiro componente em React. <br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
+**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-01/).<br>
 **Duração:** 3 horas.
 
 ### Aula 02 - [Um pouco de Javascript](aulas/aula02/aula.md)
 
-**Objetivos:** <br> Introdução aos conceitos básicos em Javscript
-**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
-**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-02/)<br>
+**Objetivos:** Introdução aos conceitos básicos em Javscript. <br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
+**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-02/).<br>
 **Duração:** 3 horas.
