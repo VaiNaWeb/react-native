@@ -4,7 +4,7 @@ Vamos começar a desbravar o fantástico mundo do Javascript. Essa viagem, ops, 
 
 ## Javascript 
 
-É uma linguagem de programação poderosa e que está em todos os lugares, em robôs, aplicações web, mobile, e em tantos outros lugares, inclusive no seu navegador.
+É uma linguagem de programação poderosa e que está em todos os lugares, em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive no seu navegador.
 
 Faça o teste!
 
