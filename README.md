@@ -12,9 +12,9 @@ Todo o conteúdo do curso possui uma linguagem clara. As aulas são pensadas gra
 
 As aulas do módulo React Native foram criadas para que jovens possam desenvolver aplicativos mobile nativos para iOS e Android. :rocket:
 
-### Aula 01 - [hello world](aulas/aula01/aula.md)
+### Aula 01 - [Olá mundo](aulas/aula01/aula.md)
 
 **Objetivos:** <br>
-**Formato de apresentação:** <br> 
-**Ferramentas e materiais de apoio:** <br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-01/)<br>
 **Duração:** 3 horas.

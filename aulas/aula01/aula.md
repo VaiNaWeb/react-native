@@ -8,7 +8,7 @@ Vamos começar a desbravar o fantástico mundo do Javascript. Essa viagem, ops, 
 
 Faça o teste!
 
-Clique com o botão direito do mouse em qualquer lugar na tela e pressione Inspecionar elemento ou pressione (ctrl + shift + i ) e clique em Console.
+Clique com o botão direito do mouse em qualquer lugar na tela e pressione Inspecionar elemento ou pressione (ctrl + shift + i) e clique em Console.
 
 Digite o comando alert("Olá mundo");
 
