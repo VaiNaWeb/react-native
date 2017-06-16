@@ -28,7 +28,7 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 
 ### Aula 03 - [](aulas/aula03/aula.md)
 
-**Objetivos:** Introdução aos conceitos básicos em Javascript. <br>
+**Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-03/).<br>
 **Duração:** 3 horas.
