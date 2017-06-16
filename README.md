@@ -21,7 +21,7 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 
 ### Aula 02 - [Um pouco de Javascript](aulas/aula02/aula.md)
 
-**Objetivos:** Introdução aos conceitos básicos em Javscript. <br>
+**Objetivos:** Introdução aos conceitos básicos em Javascript. <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-02/).<br>
 **Duração:** 3 horas.
