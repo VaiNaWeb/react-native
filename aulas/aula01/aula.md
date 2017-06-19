@@ -21,7 +21,7 @@ Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes a
 
 ## React Native
 
-Vamos usar o React Native para construir aplicações mobile nativas aproveitando os poderes do Javascript e do React.
+Vamos usar o React Native para construir aplicações mobile nativas aproveitando os poderes do Javascript. O Native é muito similar ao React, por isso vamos aprender React antes, e depois será fácil aprender ele também.
 
 ## Criando um componente
 
