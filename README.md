@@ -26,7 +26,14 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-02/).<br>
 **Duração:** 3 horas.
 
-### Aula 03 - [](aulas/aula03/aula.md)
+### Aula 03 - [Pensando em React](aulas/aula03/aula.md)
+
+**Objetivos:** <br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
+**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-03/).<br>
+**Duração:** 3 horas.
+
+### Aula 04 - [Estados e Propriedades](aulas/aula04/aula.md)
 
 **Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
