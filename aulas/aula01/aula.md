@@ -21,11 +21,11 @@ Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes a
 
 ## React Native
 
-Vamos usar o React Native para construir aplicações mobile nativas aproveitando os poderes do Javascript. O Native é muito similar ao React, por isso vamos aprender React antes, e depois será fácil aprender ele também.
+Vamos usar o React Native para construir aplicações mobile aproveitando os poderes do Javascript. Ele basicamente permite usar o React em plataformas mobile nativas, por isso vamos aprender o React antes, e depois será fácil aprender todos os conceitos dele também.
 
 ## Criando um componente
 
-O React é baseado em componentes. Podemos dividir uma interface em vários componentes, sempre que um componente fica muito complexo devemos começar a questionar quebra-lo em novos componentes.
+O React é baseado em componentes. Podemos dividir uma interface em vários componentes, sempre que um componente fica muito complexo devemos começar a pensar em quebra-lo em novos componentes.
 
 Componentes em React são classes em Javascript que herdam da classe base React.Component
 
@@ -44,7 +44,7 @@ class HelloWorld extends React.Component {
 }
 ```
 
-O React usa JSX uma extensão de sintaxe para Javascript que parece adicionar o próprio HTML dentro do JS.
+O React usa JSX uma extensão de sintaxe para Javascript que parece adicionar o próprio HTML dentro do próprio Javascript.
 
 ```js
 class HelloWorld extends React.Component {
