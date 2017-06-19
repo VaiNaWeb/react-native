@@ -1,6 +1,6 @@
 # Um pouco de Javascript
 
-Antes de seguir aprendendo sobre o React, vamos estudar um pouquinho sobre algoritmos e Javascript.
+Antes de seguir aprendendo sobre o React, vamos estudar um pouquinho sobre algoritmos e Javascript. Vamos precisar dominar esses conceitos muito bem, para depois usa-los em nossos componentes.
 
 ## Variáveis
 
