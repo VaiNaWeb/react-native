@@ -11,7 +11,7 @@ Podemos entender uma variável como uma caixinha para guardar coisas.
 > Uma função é um pedaço de programa envolvido por um valor. Este valor pode ser aplicado, a fim de executar o programa envolvido. Por exemplo, no ambiente do navegador, a variável alert detém uma função que mostra uma pequena caixa de diálogo com uma mensagem.
 >— Eloquente Javascript
 
-Já conhecemos uma, a alert. O Javascript já tem várias funções disponíveis que podemos usar, mas podemos, e comumente criamos nossas próprias funções. Você pode entender função como uma ação. Exemplo:
+Já conhecemos uma, a alert. O Javascript já tem várias funções disponíveis que podemos usar, mas podemos, e comumente criamos nossas próprias funções. Você pode entender uma função como uma ação. Exemplo:
 
 ```js
 alert("Bom dia!");
