@@ -1,6 +1,6 @@
-# Olá mundo
+# Introdução
 
-Vamos começar a desbravar o fantástico mundo do Javascript. Essa viagem, ops, essas aulas serão dividas em três partes, vamos começar aprendendo sobre Javascript, então React e depois React Native, ao final percebemos que na verdade tá tudo junto e misturado.
+Vamos começar a desbravar o fantástico mundo do Javascript. Essa viagem, ops, essas aulas serão dividas em três partes, vamos começar aprendendo sobre Javascript, então React e somente depois React Native.
 
 ## Javascript 
 
