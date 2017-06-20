@@ -19,7 +19,7 @@ O `alert();` é uma função em Javascript, não se preocupe em conhecer o conce
 É uma biblioteca em Javascript para construção de interfaces.
 Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes aplicações, com dados que mudam muito, como o próprio Facebook e Instagram, por exemplo.
 
-As aplicações construídas com React possuem interfaces que "reagem" às interações com o usuário, e essas reações conseguem ser muito suáves, o usuário mal percebe quais alterações estão sendo feitas, mas elas estão.
+As aplicações construídas com React possuem interfaces que "reagem" às interações com o usuário, e essas reações conseguem ser muito suáves, o usuário mal percebe que alterações estão sendo feitas, mas elas estão.
 
 ## React Native
 
