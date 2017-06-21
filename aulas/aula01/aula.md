@@ -1,10 +1,6 @@
 # Introdução
 
-Vamos começar a desbravar o fantástico mundo do Javascript. Essa viagem, ops, essas aulas serão dividas em três partes, vamos começar aprendendo sobre Javascript, então React e somente depois React Native.
-
-## Javascript 
-
-É uma linguagem de programação poderosa e que está em todos os lugares, em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive no seu navegador.
+Vamos começar a desbravar o fantástico mundo do Javascript, uma linguagem de programação poderosa e que está em todos os lugares, em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive no seu navegador.
 
 Faça o teste!
 
@@ -18,13 +14,13 @@ O `alert();` é uma função em Javascript, não se preocupe em conhecer o conce
 
 É uma biblioteca em Javascript para construção de interfaces.
 
-Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes aplicações, com dados que mudam muito, como o próprio Facebook e Instagram, por exemplo.
+Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes aplicações, com dados que mudam muito, como o próprio Facebook e o Instagram, por exemplo.
 
 As aplicações construídas com React possuem interfaces que "reagem" às interações com o usuário, e essas reações conseguem ser muito suáves, o usuário mal percebe que alterações estão sendo feitas, mas elas estão.
 
 ## React Native
 
-Vamos usar o React Native para construir aplicações mobile aproveitando os poderes do Javascript. Ele basicamente permite usar o React em plataformas mobile nativas, por isso vamos aprender o React antes, e depois será fácil aprender todos os conceitos dele também.
+Vamos usar o React Native para construir aplicações mobile aproveitando os poderes do Javascript. Ele basicamente permite usar o React em plataformas mobile nativas.
 
 ## Criando um componente
 
@@ -33,7 +29,7 @@ O React é baseado em componentes. Podemos dividir uma interface em vários comp
 Componentes em React são classes em Javascript que herdam da classe base React.Component
 
 ```js
-class HelloWorld extends React.Component {
+class OlaMundo extends React.Component {
 
 }
 ```
@@ -41,35 +37,46 @@ class HelloWorld extends React.Component {
 O método render() é responsável por renderizar o componente.
 
 ```js
-class HelloWorld extends React.Component {
+class OlaMundo extends React.Component {
   render() {
    }
 }
 ```
 
-O React usa JSX uma extensão de sintaxe para Javascript que parece adicionar o próprio HTML dentro do próprio Javascript.
+Quando escrevemos para web, o React renderiza marcações em HTML div, p, etc. Com React Native, ele renderiza componentes específicos das plataformas.
 
 ```js
-class HelloWorld extends React.Component {
+class OlaMundo extends React.Component {
   render() {
     return(
-      <section>
-      	<p>Olá mundo</p>
-      </section> 
+      <View>
+        <Text>Olá mundo!</Text>
+      </View>
     );
   }
 }
 ```
-A sintaxe do JSX é muito parecida com as marcações em HTML que já conhecemos. Para estilizar nossos elementos não usamos mais class, pois class já é uma palavra reservada também do JS, usamos className. 
+A sintaxe do JSX é muito parecida com as marcações em HTML que já conhecemos.
+
+A maneira mais simples de estilizar componentes no React Native é inline, embora essa não seja a melhor maneira. A sintaxe do React Native para fazer isso é igual a do React para web.
 
 ```js
-class HelloWorld extends React.Component {
+class OlaMundo extends Component {
   render() {
-    return(
-      <section>
-      	<p className="texto">Olá mundo</p>
-      </section> 
+    return (
+      <View>
+        <Text style={[styles.textoLaranjinha]}>Olá mundo!</Text>
+      </View>
     );
   }
 }
+
+const styles = StyleSheet.create({
+  textoLaranjinha: {
+    color: 'tomato',
+    fontWeight: 'bold',
+    fontSize: 30,
+  },
+});
+
 ```
