@@ -42,8 +42,7 @@ class OlaMundo extends React.Component {
    }
 }
 ```
-
-Quando escrevemos para web, o React renderiza marcações em HTML div, p, etc. Com React Native, ele renderiza componentes específicos das plataformas.
+A sintaxe do JSX é muito parecida com as marcações em HTML que já conhecemos. Quando escrevemos para web, o React renderiza marcações em HTML div, p, etc. Com React Native, ele renderiza componentes específicos das plataformas.
 
 ```js
 class OlaMundo extends React.Component {
@@ -56,7 +55,6 @@ class OlaMundo extends React.Component {
   }
 }
 ```
-A sintaxe do JSX é muito parecida com as marcações em HTML que já conhecemos.
 
 A maneira mais simples de estilizar componentes no React Native é inline, embora essa não seja a melhor maneira. A sintaxe do React Native para fazer isso é igual a do React para web.
 
