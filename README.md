@@ -42,7 +42,7 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 
 ### Aula 05 - [Estilizando componentes](aulas/aula05/aula.md)
 
-**Objetivos:** <br>
+**Objetivos:** Como os componentes em React Native ganham estilos.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-05/).<br>
 **Duração:** 3 horas.
