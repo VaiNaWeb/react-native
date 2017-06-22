@@ -47,7 +47,7 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-05/).<br>
 **Duração:** 3 horas.
 
-### Aula 06 - [Componentes e APIS nativas](aulas/aula06/aula.md)
+### Aula 06 - [Componentes e APIs nativas](aulas/aula06/aula.md)
 
 **Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
