@@ -37,4 +37,11 @@ function olaMundo(ola) {
 }
 ```
 
-## 
+## Objetos e Arrays
+
+Objetos e arrays criam maneiras de agrupar uma conjunto de valores em um único valor. Ou seja, ao invés de tentar carregar e manter todas as coisas individualmente, eles nos permitem colocar todas as coisas relacionadas dentro de uma bolsa e carregá-las.
+
+> Existem algumas propriedades nos arrays, como length e vários métodos. Métodos são funções que são armazenadas em propriedades e, normalmente, atuam no valor nas quais elas são propriedade.
+>— Eloquente Javascript
+
+Objetos podem também ser usados como mapas, associando valores com seus nomes. O operador in pode ser usado para verificar se um objeto contém a propriedade com o nome informado.
