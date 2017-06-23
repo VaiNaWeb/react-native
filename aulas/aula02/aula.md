@@ -21,7 +21,7 @@ Um outro exemplo:
 
 ```js
 function pergunteAlgo(string) {
-	return string + '?'
+	return string + '?';
 }
 ```
 
@@ -31,7 +31,7 @@ No exemplo acima criamos a função pergunteAlgo, que retorna uma string que voc
 var ola = 'olá'
 
 function olaMundo(ola) {
-	return string + 'mundo'
+	return string + 'mundo';
 }
 ```
 
@@ -39,12 +39,12 @@ function olaMundo(ola) {
 
 Objetos e arrays criam maneiras de agrupar uma conjunto de valores em um único valor. Ou seja, ao invés de tentar carregar e manter todas as coisas individualmente, eles nos permitem colocar todas as coisas relacionadas dentro de uma bolsa e carregá-las.
 
-Objetos são coleções de propriedades, que podem adicionar propriedades. Uma maneira de criar um objeto é usando uma notação com chaves. Muito em breve isso vai ser muito útil para estilizar nossos componentes, exemplo:
+Objetos são coleções dinâmicas de chaves e valores. Uma maneira de criar um objeto é usando uma notação com chaves. Muito em breve isso vai ser muito útil para estilizar nossos componentes, exemplo:
 
 ```js
 var styles = {
     color: '#fff',
-    fontSize: 20
+    fontSize: 20,
 };
 ```
 
