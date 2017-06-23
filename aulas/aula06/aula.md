@@ -1,6 +1,6 @@
 # Componentes nativos
 
-Nos [primeiros passos na web](https://github.com/VaiNaWeb/primeiros-passos-na-web) aprendemos que precisamos marcar o nosso conteúdo com as tags, aprendendemos também que há muitas delas, como a div, section, img, etc. Não estamos mais usando HTML em um navegador, estamos na própria plataforma mobile, não usamos mais marcações, temos agora componentes nativos que o React Native nos permite usar.
+Nos [primeiros passos na web](https://github.com/VaiNaWeb/primeiros-passos-na-web) aprendemos que precisamos marcar o nosso conteúdo com as tags, aprendendemos também que há muitas delas, como a div, section, img, etc. Não estamos mais usando HTML em um navegador, estamos na própria plataforma mobile, logo não usamos mais marcações, temos agora componentes nativos que o React Native nos permite usar.
 
 ## Image
 
