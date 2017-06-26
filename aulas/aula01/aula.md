@@ -1,6 +1,6 @@
 # Introdução
 
-Vamos começar a desbravar o fantástico mundo do Javascript, uma linguagem de programação poderosa e que está em todos os lugares, em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive no seu navegador.
+Vamos começar a desbravar o fantástico mundo do Javascript, a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
 
 Faça o teste!
 
