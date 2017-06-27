@@ -26,37 +26,30 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-02/).<br>
 **Duração:** 3 horas.
 
-### Aula 03 - [Pensando em React](aulas/aula03/aula.md)
+### Aula 03 - [Estados e Propriedades](aulas/aula04/aula.md)
 
 **Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-03/).<br>
 **Duração:** 3 horas.
 
-### Aula 04 - [Estados e Propriedades](aulas/aula04/aula.md)
+### Aula 04 - [Estilizando componentes](aulas/aula05/aula.md)
 
-**Objetivos:** <br>
+**Objetivos:** Como os componentes em React Native ganham estilos.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-04/).<br>
 **Duração:** 3 horas.
 
-### Aula 05 - [Estilizando componentes](aulas/aula05/aula.md)
+### Aula 05 - [Componentes e APIs nativas](aulas/aula06/aula.md)
 
-**Objetivos:** Como os componentes em React Native ganham estilos.<br>
+**Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-05/).<br>
 **Duração:** 3 horas.
 
-### Aula 06 - [Componentes e APIs nativas](aulas/aula06/aula.md)
+### Aula 06 - [Consumindo uma API](aulas/aula07/aula.md)
 
 **Objetivos:** <br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-06/).<br>
-**Duração:** 3 horas.
-
-### Aula 07 - [Consumindo uma API](aulas/aula07/aula.md)
-
-**Objetivos:** <br>
-**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
-**Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-07/).<br>
 **Duração:** 3 horas.
