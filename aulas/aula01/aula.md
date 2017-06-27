@@ -1,5 +1,8 @@
 # Introdução
 
+> "Eu não gosto de estudar, eu odeio estudar. Eu gosto de aprender, aprender é lindo."
+> — Natalie Portman
+
 Vamos começar a desbravar o fantástico mundo do Javascript, a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
 
 Faça o teste!
