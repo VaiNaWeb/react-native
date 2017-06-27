@@ -1,37 +1,19 @@
-# Estilizando componentes
+# Componentes nativos
 
-A maneira mais simples de estilizar componentes no React Native é inline, embora essa não seja a melhor maneira. A sintaxe do React Native para fazer isso é igual a do React para web.
+Nos [primeiros passos na web](https://github.com/VaiNaWeb/primeiros-passos-na-web) aprendemos que precisamos marcar o nosso conteúdo com as tags, aprendendemos também que há muitas delas, como a div, section, img, etc. Não estamos mais usando HTML em um navegador, estamos na própria plataforma mobile, logo não usamos mais marcações, temos agora componentes nativos que o React Native nos permite usar.
+
+## Image
+
+Renderiza imagens
 
 ```js
-class OlaMundo extends Component {
+class GatinhoFeliz extends Component {
   render() {
     return (
-      <View>
-        <Text style={{width: 400, height: 400}}>Olá mundo!</Text>
-      </View>
+      <Image
+       source={{uri: 'http://imgur.com/a/kI35x'}}
+       style={{width: 400, height: 400}} />
     );
   }
 }
-```
-Uma forma mais legal de fazer isso é usando um objeto em Javascript, passando um array de estilos. Os estilos do React Native lembram o bom e velho CSS que a gente já conhece.
-
-```js
-class OlaMundo extends Component {
-  render() {
-    return (
-      <View>
-        <Text style={[styles.textoLaranjinha]}>Olá mundo!</Text>
-      </View>
-    );
-  }
-}
-
-const styles = StyleSheet.create({
-  textoLaranjinha: {
-    color: 'tomato',
-    fontWeight: 'bold',
-    fontSize: 30,
-  },
-});
-
 ```
