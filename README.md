@@ -28,7 +28,7 @@ As aulas do módulo React Native foram criadas para que jovens possam desenvolve
 
 ### Aula 03 - [Estados e Propriedades](aulas/aula03/aula.md)
 
-**Objetivos:** <br>
+**Objetivos:** Entendendo o que são, para que servem, e também como usar estados e propriedades em componentes.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios. <br>
 **Ferramentas e materiais de apoio:** [Sublime Text](http://www.sublimetext.com/) editor de texto, [Slides](https://slides.com/vainaweb/react-native-03/).<br>
 **Duração:** 3 horas.
