@@ -15,9 +15,9 @@ O `alert();` é uma função em Javascript, não se preocupe em conhecer o conce
 
 ## React
 
-É uma biblioteca em Javascript para construção de **interfaces** de usuário.
+É uma biblioteca em Javascript para construção de **interfaces** com o usuário.
 
-> Uma interface de usuário é um espaço em que interações entre humanos e máquinas acontecem.
+> Uma interface com o usuário é um espaço em que interações entre humanos e máquinas acontecem.
 > Wikipedia
 
 Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes **aplicações**, com dados que mudam muito, como o próprio Facebook e o Instagram, por exemplo.
