@@ -15,15 +15,16 @@ O `alert();` é uma função em Javascript, não se preocupe em conhecer o conce
 
 ## React
 
-É uma biblioteca em Javascript para construção de interfaces.
+É uma biblioteca em Javascript para construção de **interfaces** de usuário.
 
-Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes aplicações, com dados que mudam muito, como o próprio Facebook e o Instagram, por exemplo.
+> Uma interface de usuário é um espaço em que interações entre humanos e máquinas acontecem.
+> Wikipedia
+
+Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes **aplicações**, com dados que mudam muito, como o próprio Facebook e o Instagram, por exemplo.
 
 As aplicações construídas com React possuem interfaces que "reagem" às interações com o usuário, e essas reações conseguem ser muito suáves, o usuário mal percebe que alterações estão sendo feitas, mas elas estão.
 
-## React Native
-
-Vamos usar o React Native para construir aplicações mobile aproveitando os poderes do Javascript. Ele basicamente permite usar o React em plataformas mobile nativas.
+Usamos o React na web, ou seja, rodando em um navegador. Vamos usar o **React Native** para construir aplicações mobile aproveitando os poderes do Javascript, ele nos permite usar o React em **plataformas mobile nativas**, ou seja, rodando no próprio dispositivo mobile e não mais precisando usar algum navegador para isso.
 
 ## Criando um componente
 
