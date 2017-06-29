@@ -3,7 +3,7 @@
 > "Eu não gosto de estudar, eu odeio estudar. Eu gosto de aprender, aprender é lindo."
 > — Natalie Portman
 
-Vamos começar a desbravar o fantástico mundo do Javascript, a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
+Vamos começar a desbravar o fantástico mundo do **Javascript**, a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
 
 Faça o teste!
 
@@ -24,7 +24,7 @@ Foi criada pelos desenvolvedores do Facebook, muito boa para construir grandes *
 
 As aplicações construídas com React possuem interfaces que "reagem" às interações com o usuário, e essas reações conseguem ser muito suáves, o usuário mal percebe que alterações estão sendo feitas, mas elas estão.
 
-Usamos o React na web, ou seja, rodando em um navegador. Vamos usar o **React Native** para construir aplicações mobile aproveitando os poderes do Javascript, ele nos permite usar o React em **plataformas mobile nativas**, ou seja, rodando no próprio dispositivo mobile e não mais precisando usar algum navegador para isso.
+Usamos o React na web, ou seja, rodando em um navegador. Vamos usar o React Native para construir aplicações mobile aproveitando os poderes do Javascript, ele nos permite usar o React em **plataformas mobile nativas**, ou seja, rodando no próprio dispositivo mobile e não mais precisando usar algum navegador para isso.
 
 ## Criando um componente
 
