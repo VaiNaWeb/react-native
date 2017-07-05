@@ -6,7 +6,7 @@ Antes de seguir aprendendo sobre o React, aprenderemos um pouquinho sobre algori
 
 ## Variáveis
 
-Podemos entender uma variável como uma caixinha para guardar coisas.
+Podemos entender uma variável como uma caixinha para guardar coisas. Temos var, let e const. Por convenção uma variável deve começar com letra minúscula e usar camelCase.
 
 ## Criando e chamando funções
 
