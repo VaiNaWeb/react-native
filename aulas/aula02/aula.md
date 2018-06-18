@@ -1,7 +1,5 @@
 # Um pouco de Javascript
 
-> Eu não esclareço os que não estão prontos para aprender, nem desperto aqueles que não estão ansiosos para dar uma explicação a si próprios. Se eu apresentei um canto da praça, e eles não podem voltar para mim com outros três, eu não deveria passar por estes pontos novamente. — Confúcio
-
 Antes de seguir aprendendo sobre o React, aprenderemos um pouquinho sobre algoritmos e Javascript. Vamos precisar dominar esses conceitos muito bem, para depois usa-los em nossos componentes.
 
 ## Variáveis
